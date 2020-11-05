@@ -28,3 +28,4 @@ whitenoise
 pycodestyle
 autopep8
 pep8
+>>>>>>> c656f301d7b2931c5ef4856b15ed68504caba0c0
